@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: lightblue;
+}
+
+.error-mess {
+	background-color: red; 
+	padding: 2px; 
+	color: white; 
+	font-size: 18px; 
+	font-weight: bold;
+}
