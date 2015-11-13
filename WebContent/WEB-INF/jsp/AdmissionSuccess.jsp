@@ -16,23 +16,23 @@
 	<table>
 		<tr>
 			<td>Student's name: </td>
-			<td style="font-weight: bold; color: blue;">${student.studentName}</td>
+			<td>${student.studentName}</td>
 		</tr>
 		<tr>
 			<td>Student's hobby: </td>
-			<td style="font-weight: bold; color: blue;">${student.studentHobby}</td>
+			<td>${student.studentHobby}</td>
 		</tr>
 		<tr>
 			<td>Student's mobile: </td>
-			<td style="font-weight: bold; color: blue;">${student.studentMobile}</td>
+			<td>${student.studentMobile}</td>
 		</tr>
 		<tr>
 			<td>Student's date of birth: </td>
-			<td style="font-weight: bold; color: blue;">${student.studentDOB}</td>
+			<td>${student.studentDOB}</td>
 		</tr>
 		<tr>
 			<td>Student's skills: </td>
-			<td style="font-weight: bold; color: blue;">${student.studentSkills}</td>
+			<td>${student.studentSkills}</td>
 		</tr>
 		<tr>
 			<td>Student's address: </td>
